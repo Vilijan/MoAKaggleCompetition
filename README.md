@@ -1,13 +1,3 @@
----
-layout: post
-title: "Approaching the MoA tabular data competition on Kaggle"
-subtitle: "Solution that achieves medal zone placement on a tabular data Kaggle competition."
-date: 2021-01-03
-background: '/img/posts/post-01-moa/background.jpg'
----
-
-> # "Can you improve the algorithm that classifies drugs based on their biological activity?"
-
 # About
 
 The goal of this blog post is to describe a medal winning solution to the [MoA competition](https://www.kaggle.com/c/lish-moa/overview) on Kaggle. Since this was my first ranked competition on Kaggle and I am not a Data Scientist expert I would say that this blog post is going to be most suitable for beginners in this domain. 
